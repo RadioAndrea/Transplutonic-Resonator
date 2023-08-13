@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: DC2703_PCB-Rev4.GBR   12/11/19  12:40:05 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top                                     
+.gbr                Inner2                                  
+.gbr                Inner3                                  
+.gbr                Inner4                                  
+.gbr                Inner5                                  
+.gbr                Bottom                                  
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Silkscreen Bottom                       
+.gbr                Solder Mask Bottom                      
+.gbr                Silkscreen Top                          
+.gbr                Paste Mask Top                          
+.gbr                Paste Mask Bottom                       
+.gbr                Solder Mask Top                         
+.gbr                Keep-Out Layer                          
+.gbr                Board Outline                           
+.gbr                Assembly Bottom                         
+.gbr                Assembly Top                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+------------------------------------------------------------------------------------------

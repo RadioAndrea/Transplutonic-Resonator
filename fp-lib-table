@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPR")(type "KiCad")(uri "${KIPRJMOD}/TPR.pretty")(options "")(descr ""))
+)
