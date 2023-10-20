@@ -326,6 +326,18 @@
     [
       "5a2b28b8-66ce-46c6-95c2-f9933eb361fe",
       ""
+    ],
+    [
+      "4c2779e9-7534-472b-87c0-9ac50fee1c2a",
+      "Input Voltage Sensor"
+    ],
+    [
+      "4739b15f-329c-42c2-a453-3c32ffc4b020",
+      "VINR Resistor Divider"
+    ],
+    [
+      "6517c17b-8840-40b2-ac0a-5cd23d5f2c31",
+      "Battery Voltage Limiter"
     ]
   ],
   "text_variables": {}
